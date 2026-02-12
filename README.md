@@ -8,7 +8,6 @@ I hope you find this lab as interesting as I do (lol).
 The reason this lab is made is simply out of curiosity. I fell into the rabbit hole of what server hosting was when trying to find a place to make an always-online Project Zombiod server, so my friends and I could play. Needless to say, I am still digging through this rabbit hole with more services such as:
   ### Jellyfin:
     a self-hosted media service
-    https://jellyfin.org/docs/
   ### Nextcloud
     alternative cloud storage solution
   ### Obisdian Notes
