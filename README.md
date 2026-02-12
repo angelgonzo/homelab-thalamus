@@ -13,11 +13,11 @@ The reason this lab is made is simply out of curiosity. I fell into the rabbit h
   ### Obisdian Notes
     local, markdown-based note-taking app designed to serve as a personal knowledge base
   ### Audiobookshelf
-    self-hosted audiobook service,
+    self-hosted audiobook service
   ### Navidrone
-    self-hosted music playing service,
+    self-hosted music playing service
   ### Portainer
-    container management service,
+    container management service
   ### NGIX Proxy Manager
     managing NGIX proxy hosts
 
