@@ -6,13 +6,13 @@ Here I learned the basics of running a Linux server, from knowing how to write d
 I hope you find this lab as interesting as I do (lol). 
 
 The reason this lab is made is simply out of curiosity. I fell into the rabbit hole of what server hosting was when trying to find a place to make an always-online Project Zombiod server, so my friends and I could play. Needless to say, I am still digging through this rabbit hole with more services such as:
-  ## Jellyfin,
-  ## Nextcloud,
-  ## Obisdian Notes,
-  ## Audiobookshelf,
-  ## Navidrone,
-  ## Portainer,
-  ## NGIX Reverse Proxy
+  ### Jellyfin,
+  ### Nextcloud,
+  ### Obisdian Notes,
+  ### Audiobookshelf,
+  ### Navidrone,
+  ### Portainer,
+  ### NGIX Reverse Proxy
 
 A lot of these things come from the need to try to get away from a subscription-based model, such as Google Drive, or Netflix/HBO Max/Hulu/etc. One way to do that is to locally host it using your own equipment and electricity (haha).
 
