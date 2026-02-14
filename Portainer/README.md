@@ -20,15 +20,17 @@ Here I provided some images of the my current Portainer looks like and the conta
 
 ![Container dashboard](containers.png)
 
-These are just a few examples of what I chose to do with my configuration.\
+These are just a few examples of what I chose to do with my configuration.
 
 I'll also include a scrsht of my stack page if that's something that is interesting to you, you'll see that all my stacks were created using a docker-compose file.
+![Stack dashboard](stacks.png)
 
 However, just like any other great service Portainer has given me a couple of issues:
     - Some versions of Docker do not support Portainer
         This revelation was found first hand as I was updating the packages in "thalamus" as once it was done none of my services did not run because Portainer itself was done.
     - Portainer reliability
         Due to my inexperience I chose what some might consider an easy way out of dealing with docker-compose files in the command line. With this I've come to realize that because the services run through Portainer, if it goes down, EVERYTHING goes down. Maybe this is a call to learn how to use Docker better?
+
 
 
 
