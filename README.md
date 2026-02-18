@@ -6,7 +6,7 @@ Here I learned the basics of running a Linux server, from knowing how to write d
 I hope you find this lab as interesting as I do (lol). 
 
 The reason this lab is made is simply out of curiosity. I fell into the rabbit hole of what server hosting was when trying to find a place to make an always-online Project Zombiod server, so my friends and I could play. Needless to say, I am still digging through this rabbit hole with more services such as:
-  ### Jellyfin:
+  ### <a href="https://github.com/angelgonzo/homelab-thalamus/tree/main/Jellyfin">Jellyfin</a>
     a self-hosted media service
   ### Nextcloud
     alternative cloud storage solution
@@ -16,7 +16,7 @@ The reason this lab is made is simply out of curiosity. I fell into the rabbit h
     self-hosted audiobook service
   ### Navidrone
     self-hosted music playing service
-  ### Portainer
+  ### <a href="https://github.com/angelgonzo/homelab-thalamus/tree/main/Portainer">Portainer</a>
     container management service
   ### NGIX Proxy Manager
     managing NGIX proxy hosts
@@ -35,3 +35,4 @@ Recently, I acquired a UGREEN NAS 4-Bay, with a combined total of 16 TB running 
 With this I have majority of the files on the NAS called "Magi" and the services are running on "Thalamus".
 
 Thalamus + Magi, run my entire server. Let's dive into it.
+
