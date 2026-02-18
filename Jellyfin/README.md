@@ -20,12 +20,17 @@ With my NAS "Magi", I was able to mount that storage to my server, which allows 
 Like the HDD, I edited the /etc/fstab file to make sure the mounts are permanent, this way if the server goes down for restarts I won't have to manually mount those drives again.
 
 In the Jellyfin "partition" of my NAS I have 1 main folder, and 4 different subfolders:
-    - jellyfin_media
-        - tv_shows
-        - movies
-        - anime_tv
-        - anime_movies
-    ![partitions](paritions.png)
+
+jellyfin_media
+  - tv_shows
+  - movies
+  - anime_tv
+  - anime_movies
+
+
+
+
+![partitions](partitions.png)
 
 Only the "jellyfin_media" folder had to be mounted for Jellyfin's access to the media. This is how a bit of the /etc/fstab/ file looked like
 ![/etc/fstab edits](fstab.png)
@@ -68,4 +73,5 @@ Aside from that, I do have teeny weeny issues with it:
         - Jellyfin has an official application/software that can be downloaded on various devices, however, not on all device such as a AppleTV (lol, I know this is such a niche complaint but it matters to me)
     - Customization options are not the best
         - Though this doesn't bother me as much, I do find the lack of UI customization strange, however, in the most recent update they allowed for CSS to be used to customize the UI. I will not be using this as I don't know CSS (LOL) but it's a nice change. There is a "Skin" Plugin but that chopping on my end and it never applies the "skin" properly so the UI is wonky.    
+
 
